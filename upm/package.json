@@ -1,0 +1,15 @@
+{
+  "name": "com.mussila.facebook-sdk",
+  "version": "11.0.0",
+  "displayName": "Mussila - Facebook SDK",
+  "description": "Mussila - Facebook SDK",
+  "unity": "2019.1",
+  "author": {
+    "name": "Mussila",
+    "email": "snorri@mussila.com",
+    "url": "https://github.com/mussila/facebook-sdk-upm"
+  },
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.162"
+  }
+}
